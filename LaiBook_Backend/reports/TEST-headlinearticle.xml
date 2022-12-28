@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="headline, article" errors="0" tests="7" failures="0" time="1.055" timestamp="2022-11-15T18:36:09">
+  <testcase classname="headline, article" name="return headline for logged in user" time="0.121"></testcase>
+  <testcase classname="headline, article" name="update logged in user headline" time="0.21"></testcase>
+  <testcase classname="headline, article" name="return articles of logged in user" time="0.211"></testcase>
+  <testcase classname="headline, article" name="adding an article for looged in user return list of articles with new article" time="0.244"></testcase>
+  <testcase classname="headline, article" name="where id is a valid article id" time="0.067"></testcase>
+  <testcase classname="headline, article" name="where id is a invalid article id" time="0.067"></testcase>
+  <testcase classname="headline, article" name="update logged in user headline" time="0.134"></testcase>
+</testsuite>
+</testsuites>
